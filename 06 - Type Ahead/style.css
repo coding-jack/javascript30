@@ -71,4 +71,5 @@ span.population {
 
 .hl {
   background: #ffc600;
+  border: 1px solid red;
 }
